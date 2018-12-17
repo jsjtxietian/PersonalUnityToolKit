@@ -2,7 +2,7 @@
 A collection of useful tookits
 
 ## Include
-* Dotween
+* Simple waypoint system (Include dotween)
 * asset hunter
 * Litjson
 * UniRx
@@ -10,7 +10,6 @@ A collection of useful tookits
 * AdvancedPlayerPrefabsWindow
 
 ## From now on
-* Sprite animation related
 * Event System
 * cinemachine & textmesh pro already include by unity 2018
 * more self code

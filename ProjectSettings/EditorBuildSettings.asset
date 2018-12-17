@@ -8,4 +8,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Plugins/AdvancedPlayerPrefsWindow/DemoScene/Main.unity
     guid: 37e53db15fc6e1949b1994851374fd76
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example1_Splines.unity
+    guid: 25655ea1a011a974a8ae98240373f564
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example2_Bezier.unity
+    guid: 62f9a8a548eaf5845992755b2f5984f1
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example3_Navmesh.unity
+    guid: ee8a0cb8dae6ec04abbd625fb5fa946b
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example4_Advanced.unity
+    guid: cff8315ab08b09c4da6af3265f4e680d
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example5_Events.unity
+    guid: 0b413915c8fd4d34182ce690b1b06e85
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example6_PathInput.unity
+    guid: f6bbed31aa8f77c43b1bebc1d120f84b
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example7_Runtime.unity
+    guid: bf0673186471df04cadeb81d63beeae2
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example8_CameraInput.unity
+    guid: 4865b02feb8ee5f4a9f3bf9f29a1a503
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example9_RapidInput.unity
+    guid: 8f20074177f937b489b3f43d8f4456e6
+  - enabled: 1
+    path: Assets/Plugins/SWS/Examples/Example10_WaypointRotation.unity
+    guid: bf0298fe7a267e24bb8afd121e2c16bb
   m_configObjects: {}
