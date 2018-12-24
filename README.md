@@ -8,9 +8,10 @@ A collection of useful tookits
 * UniRx
 * QHierachy
 * AdvancedPlayerPrefabsWindow
+* xLua
+* Graphy
 
 ## From now on
 * Event System
-* xLua
 * cinemachine & textmesh pro already include by unity 2018
 * more self code
