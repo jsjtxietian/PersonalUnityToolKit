@@ -1,7 +1,14 @@
-# PersonalUnityToolKit
-A collection of useful tookits
+# UnityPlayGround
+### playground
 
-## Include
+* xlua用法
+* cinemachine用法
+* 
+
+### A collection of useful tookits
+
+####Include
+
 * Simple waypoint system (Include dotween)
 * asset hunter
 * Litjson
@@ -10,8 +17,11 @@ A collection of useful tookits
 * AdvancedPlayerPrefabsWindow
 * xLua
 * Graphy
+* Odin
+* 2d light
 
-## From now on
+####From now on
+
 * Event System
 * cinemachine & textmesh pro already include by unity 2018
 * more self code
@@ -27,7 +37,6 @@ A collection of useful tookits
 * Inventory Pro是制作背包仓储系统的最佳插件
 * Editor Console Pro是一款可以取代Unity原生控制台编辑器的插件，生产力提升必备插件。
 * Stan’s Assets提供了和iOS、安卓等平台交互的插件，还有使用Admob的插件。有了Stan's Assets的插件，你完全不需要了解任何iOS或者安卓开发，就可以使用iOS和安卓的各种特性。
-* Odin是一款可视化编程插件。
 * Editor Console Pro是一款可以取代Unity原生控制台编辑器的插件，生产力提升必备插件。
 * Easy Editor可以帮助开发者快速在Inspector栏中修改代码中的各种数据。
 * json.net
